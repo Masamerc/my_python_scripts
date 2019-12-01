@@ -1,6 +1,6 @@
 # my_scripts
 ---
-Collection of scripts I wrote for testing &amp; learning purpose.
+Collection of Python scripts I wrote for testing &amp; learning purpose.
 
 - **Pytube**: Learned to download videos from YouTube using the module
 - **Selenium**: Learnd the basics of Selenium and wrote script to bombard your friend's messenger. 
