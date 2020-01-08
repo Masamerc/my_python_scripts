@@ -1,6 +1,7 @@
 import time 
 import math
 import sys
+import os 
 
 
 def start_timer(duration):
@@ -18,6 +19,8 @@ def start_timer(duration):
 
         print(f"{minutes}:{seconds}")
         time.sleep(1)
+        os.system("cls" if os.name == "nt" else "clear")
+
     print("...Timer Stopped")
     restart_timer()
     
