@@ -12,7 +12,7 @@ db = client.sentword
 words_col = db.words
 sents_col = db.sents
 
-words_col.ensure_index("timestamp", expireAfterSeconds=60)
+words_col.ensure_index("timestamp", expireAfterSeconds=60) #deprecated, use create_index instead 
 
 TIMESTAMP = datetime.utcnow()
 URL = "https://example.com"
@@ -26,4 +26,4 @@ word_count_with_metadata = {
     "timestamp": TIMESTAMP,
 }
 
-words_col.insert(word_count_with_metadata)
+words_col.insert(word_count_with_metadata) # deprecated? use insert_one() or insert_many() instead

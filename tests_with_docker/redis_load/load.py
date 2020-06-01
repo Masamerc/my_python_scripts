@@ -3,7 +3,7 @@ from datetime import datetime
 from redis import Redis
 from collections import Counter
 
-r = Redis(port=6379)
+r = Redis(port=6378)
 
 TIMESTAMP = datetime.now()
 URL = "https://example.com"
@@ -18,19 +18,19 @@ word_count_with_metadata = {
 }
 
 
-r.setex("word_count", 2, pickle.dumps(word_count_with_metadata))
+r.setex("word_count", 60, pickle.dumps(word_count_with_metadata))
 
-import time
-print("Sleeping....")
-time.sleep(1)
-try:
-    print("Data retrieved from redis")
-    data = pickle.loads(r.get("word_count"))
-    print(f"URL: {data['url']}")
-    print(f"DATA: {data['word_count']}")
+# import time
+# print("Sleeping....")
+# time.sleep(1)
+# try:
+#     print("Data retrieved from redis")
+#     data = pickle.loads(r.get("word_count"))
+#     print(f"URL: {data['url']}")
+#     print(f"DATA: {data['word_count']}")
 
-except Exception as e:
-    print("Data expired!")
+# except Exception as e:
+#     print("Data expired!")
     
 
 

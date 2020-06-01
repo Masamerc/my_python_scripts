@@ -1,6 +1,9 @@
 import os
 import praw
 
+# official doc: https://developers.google.com/youtube/v3/docs
+# official python doc: https://github.com/googleapis/google-api-python-client/blob/master/docs/start.md
+
 reddit = praw.Reddit(
     client_id=os.environ.get("REDDIT_CLIENT_ID"),
     client_secret=os.environ.get("REDDIT_CLIENT_SECRET"),
@@ -10,12 +13,11 @@ reddit = praw.Reddit(
 # initialize subreddit instance of "Mr.Robot" subreddit
 mr = reddit.subreddit("MrRobot")
 
-
 # get 10 sumissions from "hot" category
 def get_submissions(subreddit_with_category, limit) -> list: # example: mr.hot(limit=10)
     return [sub for sub in subreddit_with_category(limit=limit)]
 
-
+# extract comments from submissions
 def get_comments(submission, attribute=None) -> list:
     if attribute:
         return [comment.body for comment in submission.comments]
