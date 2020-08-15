@@ -1,0 +1,49 @@
+active_user_count,url,title,subscribers,subreddit_type,spoilers_enabled,public_description,over18,created,created_utc,lang,videos_allowed,images_allowed
+804,/r/announcements/,Announcements,65200723,restricted,True,"Official announcements from Reddit, Inc.",False,1245284901.0,1245256101.0,en,True,True
+41216,/r/funny/,funny,32375687,public,True,"Welcome to r/Funny, Reddit's largest humour depository.",False,1201271756.0,1201242956.0,en,True,True
+76166,/r/AskReddit/,Ask Reddit...,29297303,public,True,r/AskReddit is the place to ask and answer thought-provoking questions.,False,1201261935.0,1201233135.0,es,False,False
+37901,/r/gaming/,r/gaming,27472126,public,True,"A subreddit for (almost) anything related to games - video games, board games, card games, etc. (but not sports).",False,1190083405.0,1190054605.0,en,False,True
+27566,/r/aww/,A subreddit for cute and cuddly pictures,26123773,public,True,"Things that make you go AWW! Like puppies, bunnies, babies, and so on...
+
+A place for really cute pictures and videos!",False,1201262822.0,1201234022.0,en,True,True
+23545,/r/pics/,Reddit Pics,25531755,public,True,A place for pictures and photographs.,False,1201249869.0,1201221069.0,en,False,True
+10075,/r/science/,Reddit Science,24814805,public,False,"This community is a place to share and discuss new scientific research. Read about the latest advances in astronomy, biology, medicine, physics, social science, and more. Find and submit new publications and popular science coverage of current research.",False,1161208466.0,1161179666.0,en,False,False
+18355,/r/worldnews/,World News,24796918,public,False,"A place for major news from around the world, excluding US-internal news.",False,1201259919.0,1201231119.0,en,False,False
+6951,/r/Music/,/r/Music,24935933,public,True,The musical community of reddit,False,1201264232.0,1201235432.0,en,True,False
+30934,/r/videos/,/r/videos,23621863,public,True,"The best place for video content of all kinds. 
+
+Please read the sidebar below for our rules.",False,1201261036.0,1201232236.0,en,False,False
+14420,/r/movies/,Movie News and Discussion,23497328,public,True,News & Discussion about Major Motion Pictures,False,1201272750.0,1201243950.0,en,False,True
+30420,/r/todayilearned/,Today I Learned (TIL),23538631,public,False,"You learn something new every day; what did you learn today?
+Submit interesting and specific facts about something that you just found out here.",False,1230475619.0,1230446819.0,en,False,False
+35664,/r/news/,"All news, US and international.",21516495,public,False,"/r/news is: real news articles, primarily but not exclusively, news relating to the United States and the rest of the World. /r/news isn't: editorials, commercials, political minutiae, shouting, justin bieber updates, kitty pictures. For a subreddit for all news-related content (editorials, satire, etc.) visit /r/inthenews.",False,1201272565.0,1201243765.0,en,False,False
+17447,/r/Showerthoughts/,Showerthoughts,20668510,public,True,A subreddit for sharing those miniature epiphanies you have that highlight the oddities within the familiar.,False,1319001919.0,1318973119.0,en,False,True
+4515,/r/IAmA/,IAmA,20346287,public,True,"I Am A, where the mundane becomes fascinating and the outrageous suddenly seems normal.",False,1243497365.0,1243468565.0,en,False,True
+4341,/r/gifs/,".gifs - funny, animated gifs for your viewing pleasure",20302377,public,True,"Funny, animated GIFs: Your favorite computer file type!
+
+Officially pronounced with a hard ""J""",False,1234635407.0,1234606607.0,en,False,True
+37591,/r/EarthPorn/,EarthPorn: Amazing images of light and landscape,20327575,public,True,EarthPorn is your community of landscape photographers and those who appreciate the natural beauty of our home planet.,False,1297698566.0,1297669766.0,en,False,True
+6989,/r/askscience/,AskScience: Got Questions? Get Answers.,19528934,public,True,"Ask a science question, get a science answer.",False,1220628764.0,1220599964.0,en,False,True
+3311,/r/food/,Welcome to /r/Food on Reddit!,19493864,public,True,Images of Food,False,1201275191.0,1201246391.0,en,False,True
+19109,/r/Jokes/,Jokes: Get Your Funny On!,18950138,public,True,"The funniest sub on reddit. Hundreds of jokes posted each day, and some of them aren't even reposts!",False,1201311072.0,1201282272.0,en,False,False
+16057,/r/explainlikeimfive/,Explain Like I'm Five | Don't Panic!,18399719,public,False,"Explain Like I'm Five is the best forum and archive on the internet for layperson-friendly explanations.
+
+
+Don't Panic!",False,1311895300.0,1311866500.0,en,False,False
+4098,/r/books/,"So many books, so little time",18344237,public,True,"This is a moderated subreddit. It is our intent and purpose to foster and encourage in-depth discussion about all things related to books, authors, genres, or publishing in a safe, supportive environment. If you're looking for help with a personal book recommendation, consult our Weekly Recommendation Thread, Suggested Reading page, or ask in r/suggestmeabook.",False,1201273652.0,1201244852.0,en,False,False
+4253,/r/LifeProTips/,Life Pro Tips,18261970,public,True,Tips that improve your life in one way or another.,False,1288018727.0,1287989927.0,en,False,True
+91,/r/blog/,Blog,17843122,restricted,True,"The official blog for Reddit, Inc.",False,1201273404.0,1201244604.0,en,True,True
+5814,/r/Art/,Art,18239842,public,True,"This is a subreddit about art.
+
+We do not support the reddit redesign. It is horrible and the admins have ignored our feedback. Please do not use it. Go to your preferences and enable old reddit as your default experience.",False,1201311524.0,1201282724.0,en,False,True
+9833,/r/mildlyinteresting/,"For photos that are, you know, mildly interesting",17909979,public,True,"Aww, cripes. I didn't know I'd have to write a description. How many words is that so far, like a hundred? Soooo, yeah. Mildly interesting stuff. Stuff that interests you. Mildly. It's in the name, ffs.",False,1328453681.0,1328424881.0,en,False,True
+1715,/r/DIY/,DIY,17823389,public,False,"A place where people can come to learn and share their experiences of doing, building and fixing things on their own.",False,1201311864.0,1201283064.0,en,False,True
+4405,/r/sports/,Reddit Sports,17649982,public,True,"Sports News and Highlights from the NFL, NBA, NHL, MLB, MLS, and leagues around the world.",False,1190083381.0,1190054581.0,en,True,True
+5241,/r/nottheonion/,"Sadly, this is not the Onion.",17491076,public,False,For true stories that are so mind-blowingly ridiculous that you could have sworn they were from The Onion.,False,1224996803.0,1224968003.0,en,False,False
+4873,/r/space/,Space Discussion,17210524,public,True,"Share & discuss informative content on:
+
+* Astrophysics
+* Cosmology
+* Space Exploration
+* Planetary Science
+* Astrobiology",False,1201356474.0,1201327674.0,en,True,True
