@@ -1,3 +1,4 @@
 .vscode/
 envs.sh
 .env
+ipynb_checkpoints/
