@@ -1,0 +1,1 @@
+from .core import spit_1000_json
